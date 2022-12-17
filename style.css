@@ -1,0 +1,30 @@
+
+.sas{
+    background-image: url("./img/Exclusion\ 5.png");
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+
+.dd{
+    background-image: url("./img/Intersection\ 9.png");
+ width: 20%;
+}
+.qot{
+    width: 25px;
+}
+.fw-bold{
+    /* margin-top: -30px; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+    
+}
+.kd{
+    width: 10%;
+}
+.emo{
+    width: 10%;
+}
+strong{
+    color: rgb(3, 101, 19);
+}
